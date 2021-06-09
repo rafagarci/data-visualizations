@@ -1,2 +1,7 @@
-# data-visualizations
-Some of my data visualizations
+# Data Visualizations
+
+Some of the data visualizations I have created over time.
+
+## License
+
+GNU GPLv3 © Rafael García
